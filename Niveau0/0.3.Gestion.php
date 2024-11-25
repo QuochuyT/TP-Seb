@@ -41,7 +41,7 @@
             // echo '<br>';
         }
         if (!empty($name) && $age > 0 && filter_var($email, FILTER_VALIDATE_EMAIL)) {
-            $line = "Name: $name | Âge: $age | Email: $email\n";
+            $line = "Name: $name | Âge: $age ans | Email: $email\n";
             echo '<br>';
 
             $fichier = 'Liste.txt';
