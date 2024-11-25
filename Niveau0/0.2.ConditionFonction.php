@@ -27,14 +27,13 @@ echo mineur($age);
         <input type="text" name="name" required>
         <button type="submit">Envoyez</button>
     </form>
+
     <?php 
     if (!empty($_POST)) {
         if (isset($_POST['name'])){
             echo 'Bienvenue' . ($_POST['name']);
         };  
     }
-    ?>
-    
-
+    ?> 
 </body>
 </html>
