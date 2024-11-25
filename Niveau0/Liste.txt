@@ -1,0 +1,4 @@
+Name: Zoro | Âge: 24 | Email: Zoro@zoro.fr
+Name: Luffy  | Âge: 25 | Email: Luffy@Luffy.fr
+Name: Chopper | Âge: 12 | Email: Chopper@chopper.fr
+Name: Chopper | Âge: 12 | Email: Chopper@chopper.fr
